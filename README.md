@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🌱 I’m currently learning Python, SQL, and Django.
+- 📫 How to reach me: [Linked In](https://www.linkedin.com/in/stuart-clayton-45521113a/)
 
 <!--
 **Optimizer-Prime/Optimizer-Prime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
