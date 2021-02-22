@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning Python, SQL, and Django.
+- 🌱 I’m currently learning Python, MySQL, and Django.
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/stuart-clayton-45521113a/)
 
 <!--
