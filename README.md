@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on making a blog using Django and Bootstrap.
+- 🔭 I’m currently working on making an open database for PDX tumor models using Django and Bootstrap called [pdxdb](https://github.com/Optimizer-Prime/pdxdb). 
 - 🌱 I’m currently learning Python, SQL, and Django.
 - 📫 How to reach me: [Linked In](https://www.linkedin.com/in/stuart-clayton-45521113a/)
 
