@@ -2,6 +2,7 @@
 
 - 🔭 I’m currently working on making an open database for PDX tumor models using Django and Bootstrap called [pdxdb](https://github.com/Optimizer-Prime/pdxdb). 
 - 🌱 I’m currently learning Python/Django/REST framework, SQL/databases, and HTML/CSS.
+- ⚡ Visit my [publications](https://github.com/Optimizer-Prime/publications) repo.
 
 <!--
 **Optimizer-Prime/Optimizer-Prime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
