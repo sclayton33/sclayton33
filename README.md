@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on making an open database for PDX tumor models using Django and Bootstrap called [pdxdb](https://github.com/Optimizer-Prime/pdxdb). 
-- 🌱 I’m currently learning Data Science, particulary Python, relevant libraries and techniques.
+- 🌱 I’m currently learning Data Science. Mostly using Python and relevant libraries.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stuart-clayton-45521113a/)
 - ⚡ Visit my [publications](https://github.com/Optimizer-Prime/publications) repo.
 
