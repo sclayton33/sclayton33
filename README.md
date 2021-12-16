@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently practicing data science skills by doing data analysis, visualization, and applying machnine/deep learning. 
+- 🔭 I’m currently [practicing data science](https://github.com/Optimizer-Prime/data-science-practice) skills by doing data analysis, visualization, and applying machnine/deep learning. 
 - 🌱 I’m currently learning Data Science. Mostly using Python and relevant libraries.
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/stuart-clayton-45521113a/)
 - ⚡ Visit my [publications](https://github.com/Optimizer-Prime/publications) repo.
