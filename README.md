@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi friend! 👋
 
 - 🔭 I’m currently [practicing data science](https://github.com/Optimizer-Prime/data-science-practice) skills by doing data analysis, visualization, and applying machnine/deep learning. 
 - 🌱 I’m currently learning Data Science. Mostly using Python and relevant libraries.
