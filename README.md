@@ -1,6 +1,6 @@
 ### Hi friend! 👋
 
-- 🔭 I’m currently working on my Ph.D. in Biomedical Science, so mostly random programming to make my life easier.
+- 🔭 I’m currently working on my Ph.D. in Biomedical Science, so mostly research related or random programming to make my life easier.
 - 🌱 I’m currently learning [genomic data science](https://github.com/Optimizer-Prime/genomic-data-science-coursera) skills from the Coursera specialization.
 - ⚡ Visit my [publications](https://github.com/Optimizer-Prime/publications) repo.
 - ⚡ [IBM Data Science Professional Certificate](https://www.credly.com/badges/8b683bf2-c674-4285-a637-7c35e427850a/public_url).
