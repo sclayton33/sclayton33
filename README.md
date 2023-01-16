@@ -1,7 +1,7 @@
 ### Hi friend! 👋
 
 - 🔭 I’m currently working on my Ph.D. in Biomedical Science, so mostly research related or random programming to make my life easier.
-- 🌱 I’m currently learning [bioinformatics](https://github.com/sclayton33/bioinformatics-coursera) skills from the [Coursera specialization](https://www.coursera.org/specializations/bioinformatics).
+- 🌱 I’m currently learning bioinformatics skills from various resources when I have time.
 - ⚡ Visit my [publications](https://github.com/sclayton33/publications) repo.
 - ⚡ [IBM Data Science Professional Certificate](https://www.credly.com/badges/8b683bf2-c674-4285-a637-7c35e427850a/public_url).
 
