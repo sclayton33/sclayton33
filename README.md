@@ -1,4 +1,4 @@
-### Hi friend! 👋
+### Greetings 🤓
 
 - 🔭 I’m currently working on my PhD in Biomedical Science, so mostly research related or random programming to make my life easier.
 - 🌱 I’m currently learning bioinformatics skills from various resources when I have time.
