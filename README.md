@@ -2,8 +2,7 @@
 
 - 🔭 I’m currently working on my PhD in Biomedical Science, so mostly research related or random programming to make my life easier.
 - 🌱 I’m currently learning bioinformatics skills from various resources when I have time.
-- ⚡ Feel free to check out my [publications](https://stuartclayton.me/publications).
-- ⚡ [IBM Data Science Professional Certificate](https://www.credly.com/badges/8b683bf2-c674-4285-a637-7c35e427850a/public_url).
+- ⚡ Feel free to check out my [publications](https://scholar.google.com/citations?user=JmoEsfwAAAAJ).
 
 <!--
 **sclayton33/sclayton33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
